@@ -1,45 +1,38 @@
-# Hi, I'm Manjunath G K 👋
+# 👋 Hi, I'm Manjunath G K  
 
-🎯 **Aspiring Software Engineer | 2nd Year CSE Student | Web Development & AI Enthusiast**  
-💻 Passionate about **Python**, **Java**, and building real-world projects  
-🚀 Preparing for **Microsoft Internship & Product-based Company Interviews**  
-
----
-
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-Intermediate-red?logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?logo=flask)
+🚀 **Aspiring Software Engineer | 2nd Year CSE | Python & Java Developer**  
+🎯 Passionate about Web Development & AI | Preparing for Microsoft Internship  
 
 ---
 
-## 📌 About Me
-- 🎓 **B.E. in Computer Science Engineering** (2027) at UBDT College of Engineering, Davangere, Karnataka  
-- 💼 Completed **Python Internship @ Studio**  
-- 📜 Certifications: **HackerRank Python Basics**, **TCS Young Professional**, **Codliber Python**  
-- 🎯 Goal: Crack **SDE Internship** & secure a top-tier job  
-- 🛠 Currently building **projects** to strengthen my resume
+## 🛠 Skills & Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🌎 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manjunath%20G%20K-blue?logo=linkedin)](https://www.linkedin.com/in/manjunath-g-k-040813354)
-[![GitHub](https://img.shields.io/badge/GitHub-Manjunath--G--K-black?logo=github)](https://github.com/Manjunath-G-K)
-[![Email](https://img.shields.io/badge/Email-Click%20to%20Send-red?logo=gmail)](mailto:manjunathgk146@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Manjunath-orange?logo=leetcode)](https://leetcode.com/u/manjunathgk024/)
-
+## 📌 Featured Projects  
+- [Clean City Complaint Management System (Java Swing)](https://github.com/yourusername/clean-city-java)  
+- [Personal Expense Tracker (Python Flask)](https://github.com/yourusername/expense-tracker)  
+- [Portfolio Website (HTML/CSS/JS)](https://github.com/yourusername/portfolio)  
 
 ---
 
-## 📊 GitHub Stats
-![Manjunath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjunath-G-K&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-G-K&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manjunath-g-k-040813354)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)  
+📧 **Email:** manjunathgk146@gmail.com  
 
-
-## 💡 Fun Fact
-_"Code is like humor — when you have to explain it, it’s bad."_ 😄
+---
+💡 *"Small steps daily → Big results tomorrow"*  
