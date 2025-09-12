@@ -34,8 +34,7 @@ I love learning new technologies and expanding my toolkit. Here are some of my c
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manjunath-G-K&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Manjunath-G-K&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-G-K&layout=compact&theme=tokyonight)
+
 
 ---
 
