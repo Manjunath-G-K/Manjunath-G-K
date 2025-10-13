@@ -43,7 +43,7 @@ I love learning new technologies and expanding my toolkit. Here are some of my c
 I’m always open to connecting with fellow learners, developers, and mentors. Feel free to reach out for collaborations, discussions, or just to say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-g-k-040813354)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/manjunathgk024/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manjunathgk146@gmail.com)
 
 ---
