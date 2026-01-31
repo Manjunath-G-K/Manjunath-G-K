@@ -6,7 +6,19 @@
 
 ## 🌟 Welcome to My GitHub!
 
-Hello! I'm Manjunath, a passionate Third-year Computer Science Engineering student at **UBDT College of Engineering, Davangere**. My journey in tech is driven by curiosity, creativity, and a relentless desire to solve real-world problems. Whether it’s building software projects, mastering algorithms, or collaborating with fellow developers, I believe every day offers a new opportunity to grow.
+Hey there! I’m Manjunath, a third-year Computer Science Engineering student at UBDT College of Engineering, Davangere.
+I’m deeply curious about how things work under the hood and love turning ideas into real, working software.
+
+My journey in tech is driven by:
+
+> solving real-world problems
+
+> writing clean & efficient code
+
+> and continuously leveling up my  skills
+
+From cracking DSA problems to building backend-heavy projects, I believe consistency beats everything 🚀
+
 
 ---
 
