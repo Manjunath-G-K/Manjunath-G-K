@@ -6,7 +6,7 @@
 
 ## 🌟 Welcome to My GitHub!
 
-Hello! I'm Manjunath, a passionate second-year Computer Science Engineering student at **UBDT College of Engineering, Davangere**. My journey in tech is driven by curiosity, creativity, and a relentless desire to solve real-world problems. Whether it’s building software projects, mastering algorithms, or collaborating with fellow developers, I believe every day offers a new opportunity to grow.
+Hello! I'm Manjunath, a passionate Third-year Computer Science Engineering student at **UBDT College of Engineering, Davangere**. My journey in tech is driven by curiosity, creativity, and a relentless desire to solve real-world problems. Whether it’s building software projects, mastering algorithms, or collaborating with fellow developers, I believe every day offers a new opportunity to grow.
 
 ---
 
@@ -22,7 +22,6 @@ I love learning new technologies and expanding my toolkit. Here are some of my c
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?logo=mysql&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
