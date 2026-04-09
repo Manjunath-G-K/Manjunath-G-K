@@ -7,10 +7,10 @@
 <div align="center">
 
 ```
-                                        ╔══════════════════════════════════════════════════════════════╗
-                                        ║   Backend Engineer · System Designer · Problem Solver        ║
-                                        ║   Building scalable systems, one service at a time.          ║
-                                        ╚══════════════════════════════════════════════════════════════╝
+                          ╔══════════════════════════════════════════════════════════════╗
+                          ║   Backend Engineer · System Designer · Problem Solver        ║
+                          ║   Building scalable systems, one service at a time.          ║
+                          ╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Microservices+%7C+System+Design;Java+%7C+Python+%7C+PostgreSQL+%7C+Redis;Backend+SDE+Intern+%40+Infosys+Springboard;250%2B+DSA+Problems+%7C+8.8+CGPA+%7C+CSE+2027)](https://github.com/Manjunath-G-K)
