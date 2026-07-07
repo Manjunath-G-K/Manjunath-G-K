@@ -1,193 +1,329 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=120&section=header&text=Manjunath%20G%20K&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0b3d,50:3a0ca3,75:7209b7,100:b5179e&height=280&section=header&text=Manjunath%20G%20K&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20AI%2FML%20Builder&descAlignY=55&descSize=19" width="100%"/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=850&lines=Engineering+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;System+Design+%2B+Distributed+Architecture;AI%2FML+%26+Full-Stack+Product+Engineering;Don%27t+just+write+code.+Engineer+systems." alt="Typing SVG" />
+</a>
 
-<div align="center">
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   Backend Engineer · System Designer · Problem Solver        ║
-║   Building scalable systems, one service at a time.          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Degree](https://img.shields.io/badge/B.E.-Computer%20Science%20(VTU)-3A0CA3?style=flat-square&logo=googlescholar&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.8%2F10.0-7209B7?style=flat-square&logo=bookstack&logoColor=white)
+![Location](https://img.shields.io/badge/Davanagere%2C%20Karnataka%2C%20India-B5179E?style=flat-square&logo=googlemaps&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Microservices+%7C+System+Design;Java+%7C+Python+%7C+PostgreSQL+%7C+Redis;Backend+SDE+Intern+%40+Infosys+Springboard;250%2B+DSA+Problems+%7C+8.8+CGPA+%7C+CSE+2027)](https://github.com/Manjunath-G-K)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3A0CA3?style=for-the-badge&logo=vercel&logoColor=white)](https://manjunath-g-k.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-560BAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-g-k)
+[![GitHub](https://img.shields.io/badge/GitHub-7209B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manjunath-G-K)
+[![Email](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathgk146@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-B5179E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918618545293)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manjunath-G-K&style=flat-square&color=b5179e&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Manjunath-G-K?style=flat-square&color=7209b7&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/Manjunath-G-K?style=flat-square&color=3a0ca3&label=Stars&logo=github)
 
 </div>
 
 ---
 
-## `Who am  I`
+### 🧬 About Me
 
-```java
-public class Manjunath {
-
-    String degree   = "B.E. CSE @ UBDT, Davanagere (VTU) — CGPA: 8.8 / 10";
-    String batch    = "2023 – 2027";
-    String location = "Davanagere, Karnataka, India";
-
-    String[] currentFocus = {
-        "Distributed Systems & Microservices Architecture",
-        "System Design for High-Throughput Backends",
-        "DSA Mastery — Graphs, DP, Optimization"
-    };
-
-    String superpower = "Turning complex backend problems into clean, scalable solutions.";
-}
+```yaml
+name: "Manjunath G K"
+role: "Backend Engineer & Systems Designer"
+degree: "B.E. Computer Science — UBDT College of Engineering, Davanagere (VTU)"
+batch: "2023 – 2027"
+current_experience: "Software Engineering Intern @ Infosys Springboard (Java Stack)"
+focus:
+  - Distributed Systems & Microservices Architecture
+  - High-Throughput, Security-First Backend Engineering
+  - AI/ML-Powered NLP & Applied Machine Learning
+  - Full-Stack Product Engineering
+philosophy: "Engineer systems. Solve problems. Ship impact."
 ```
+
+Backend-focused software engineer specializing in **Java, Spring Boot, and distributed systems design**, with production internship experience at **Infosys Springboard**, where I built backend services and contributed to data pipeline development within an Agile/Scrum team. I design systems around **security, scalability, and clean layered architecture** — from a role-based-access financial platform to a real-time log ingestion pipeline with AES-256 encryption and sub-second anomaly detection. I also build **AI/ML-driven NLP pipelines** and full-stack products, bringing a product-engineering mindset to backend systems.
+
+**🎯 Open To:** Backend Engineering Roles · Software Engineering Internships · Distributed Systems Projects · AI-Integrated Backend Systems · Open Source Collaboration
 
 ---
 
-## ⚡ Tech Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JS](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://skillicons.dev/icons?i=mysql)
 
-**Backend & Frameworks**
+**Frontend**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=apachekafka&logoColor=white)
+![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-**Data & Infrastructure**
+**Backend, Databases & APIs**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Spring](https://skillicons.dev/icons?i=spring) ![Hibernate](https://skillicons.dev/icons?i=hibernate) ![Flask](https://skillicons.dev/icons?i=flask) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Tools**
+**Cloud, DevOps & Tooling**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Maven](https://skillicons.dev/icons?i=maven) ![Linux](https://skillicons.dev/icons?i=linux) ![IntelliJ](https://skillicons.dev/icons?i=idea)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💼 Finance Backend — RBAC API
-`Java` `Spring Boot 3.x` `Spring Data JPA` `H2`
-
-Layered financial records system with **Role-Based Access Control** (Admin / Analyst / Viewer) and a Net Balance tracking engine using JPA custom queries.
-
-> Controller → Service → Repository separation · ACID-compliant transactions · Real-time Income/Expense aggregation
-
-[![Live](https://img.shields.io/badge/View%20Project-6DB33F?style=flat-square&logo=github)](https://github.com/Manjunath-G-K)
-
-</td>
-<td width="50%">
-
-### 📊 Real-Time Log Monitoring System
-`Java` `Spring Boot` `System Design` `Thread Pools`
-
-Distributed backend achieving **99.9% reliability** with async log ingestion via Thread Pools, real-time anomaly detection, and PII masking interceptors.
-
-> Non-blocking I/O · In-memory data structures · Health telemetry dashboards
-
-[![Live](https://img.shields.io/badge/View%20Project-007396?style=flat-square&logo=github)](https://github.com/Manjunath-G-K)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌱 CarbonLite — Sustainability Tracker
-`Spring Boot` `React` `MySQL` `Spring Security`
-
-Full-stack sustainability platform with dynamic lifestyle-tracking algorithms delivering **40% improvement in user engagement** through real-time KPI visualizations.
-
-> ACID-compliant emission logging · Hibernate connection pooling · Responsive React dashboard
-
-[![Live](https://img.shields.io/badge/View%20Project-1D9E75?style=flat-square&logo=github)](https://github.com/Manjunath-G-K)
-
-</td>
-<td width="50%">
-
-### 🧠 AI Misinformation Detector — NLP Pipeline
-`Python` `ML/NLP` `TF-IDF` `Streamlit`
-
-End-to-end NLP pipeline achieving **90%+ accuracy** using TF-IDF vectorization and classification models to detect misinformation in unstructured text.
-
-> Concurrent request handling · Streamlit UI · Optimized inference latency
-
-[![Live](https://img.shields.io/badge/View%20Project-3776AB?style=flat-square&logo=github)](https://github.com/Manjunath-G-K)
-
-</td>
-</tr>
-</table>
-
-
-
----
-
-## 📈 GitHub Stats
+### 🤖 AI / ML Capability Map
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manjunath-G-K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-G-K&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+**NLP & Text Classification**
+![](https://progress-bar.xyz/90/?title=TF-IDF%20%2B%20Misinformation%20Detection&width=400&color=b5179e&suffix=%25)
+
+**Applied ML Deployment**
+![](https://progress-bar.xyz/75/?title=Streamlit%20Inference%20UI&width=400&color=7209b7&suffix=%25)
+
+**Data Preprocessing Pipelines**
+![](https://progress-bar.xyz/85/?title=Unstructured%20Text%20%2B%20Concurrency&width=400&color=560bad&suffix=%25)
+
+**ML → Backend Integration**
+![](https://progress-bar.xyz/70/?title=Model-in-Product%20Engineering&width=400&color=3a0ca3&suffix=%25)
 
 </div>
 
+> Built and shipped an end-to-end **NLP misinformation-detection pipeline** (TF-IDF + classification, 90%+ accuracy) with a live Streamlit interface — bridging applied ML with production backend engineering rather than treating them as separate disciplines.
+
+---
+
+### 🏗️ Featured Projects
+
+<details>
+<summary><b>📊 Real-Time Log Monitoring System</b></summary>
+<br/>
+
+Distributed backend achieving **99.9% reliability** via async log ingestion using Java Thread Pools, real-time anomaly detection, and PII masking interceptors. Includes a custom-engineered **Panic Mode** for instant encryption key rotation, log purge, and emergency client broadcast.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Java, Spring Boot, REST APIs, WebSockets |
+| **Scale** | AES-256 encrypted in-memory sliding-window storage |
+| **Performance** | Non-blocking I/O, async ingestion via Thread Pools |
+| **Security** | PII masking (email/phone patterns), encryption key-rotation Panic Mode |
+| **Impact** | 99.9% reliability, live WebSocket-streamed dashboard |
+| **Repository** | [GitHub](https://github.com/Manjunath-G-K) |
+
+Clean **Controller → Service → Store** layered architecture with full documentation of API contracts, data flow, and security design decisions.
+
+</details>
+
+<details>
+<summary><b>💼 Finance Backend — RBAC & Analytics API</b></summary>
+<br/>
+
+Layered financial records system with **Role-Based Access Control** (Admin / Analyst / Viewer) enforced via a custom service-layer `RoleValidator`, plus a Dashboard Analytics API for income, expense, and net-balance insights.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Java 17, Spring Boot, Spring Data JPA, SQL, Swagger/OpenAPI |
+| **Scale** | Custom SQL queries for income/expense/net-balance aggregation |
+| **Performance** | Filterable analytics by type and category via JPA |
+| **Security** | Role-enforced access, DTO-based API/data separation |
+| **Impact** | Zero-code-change H2-to-MySQL migration via configuration only |
+| **Repository** | [GitHub](https://github.com/Manjunath-G-K) |
+
+Fully documented via **Swagger/OpenAPI 3.0** with clean separation between API contracts and persistence models.
+
+</details>
+
+<details>
+<summary><b>🌱 CarbonLite — Full-Stack Sustainability Platform</b></summary>
+<br/>
+
+Full-stack sustainability tracker delivering a **40% improvement in user engagement** through dynamic lifestyle-tracking algorithms and real-time KPI visualizations.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Java, Spring Boot, Spring Security, MySQL, React.js |
+| **Scale** | Relational schema with Hibernate ORM connection pooling |
+| **Performance** | Real-time emission aggregation and goal-progress tracking |
+| **Security** | Spring Security-based authentication and session management |
+| **Impact** | 40% engagement uplift, gamified badge-assignment system |
+| **Repository** | [GitHub](https://github.com/Manjunath-G-K) |
+
+End-to-end integration across a Spring Boot backend and responsive React.js frontend, with SQL-driven emission and badge logic.
+
+</details>
+
+<details>
+<summary><b>🔐 FileGuard X — Cloud File Integrity System</b></summary>
+<br/>
+
+Cloud-native file integrity platform for **tamper detection**, using cryptographic fingerprinting and cloud storage isolation.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Python, Flask, AWS EC2, S3, DynamoDB |
+| **Scale** | S3-backed storage with DynamoDB fingerprint persistence |
+| **Performance** | REST API-driven upload/verification workflows on EC2 |
+| **Security** | SHA-256 fingerprinting, IAM-based credentials, filename sanitization |
+| **Impact** | Security-first design applicable to embedded and cloud systems |
+| **Repository** | [GitHub](https://github.com/Manjunath-G-K) |
+
+Deployed on AWS infrastructure with a strong emphasis on tamper-evidence and storage isolation.
+
+</details>
+
+<details>
+<summary><b>🧠 AI Misinformation Detector — NLP Pipeline</b></summary>
+<br/>
+
+End-to-end NLP pipeline achieving **90%+ classification accuracy** detecting misinformation in unstructured text.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Python, ML/NLP, TF-IDF, Streamlit |
+| **Scale** | Unstructured text preprocessing at scale |
+| **Performance** | Optimized inference latency, concurrent request handling |
+| **Security** | Input sanitization for text-based inference pipeline |
+| **Impact** | 90%+ detection accuracy, deployed via interactive Streamlit UI |
+| **Repository** | [GitHub](https://github.com/Manjunath-G-K) |
+
+Combines TF-IDF vectorization with classification modeling for real-time misinformation detection.
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Software Engineering Intern — Java Technology Stack**
+**Infosys Springboard** · Nov 2025 – Jan 2026 · Davanagere, India
+
+Developed and maintained backend services using Java and Spring Boot, contributing to data pipeline development and deployment workflows within an Agile/Scrum environment.
+
+- Built and maintained backend services supporting data pipeline development and deployment workflows
+- Participated in structured code reviews to ensure code quality and consistency across sprint cycles
+- Authored technical documentation covering system design and implementation decisions
+- Collaborated cross-functionally with engineers using Git for version control in Agile/Scrum sprints
+
+`Java` `Spring Boot` `Agile/Scrum` `Git` `Data Pipelines` `Code Review`
+
+---
+
+### 🏆 Achievements
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manjunath-G-K&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| Recognition | Details |
+|:--|:--|
+| 💻 Problem Solving | 300+ DSA problems solved on LeetCode & GeeksforGeeks — Arrays, Graphs, DP, Trees, Optimization |
+| 🏆 Hackathons | Active participant in coding contests and real-world engineering challenges |
+| 🎓 Academics | CGPA 8.8/10.0 (VTU) · PU Board 92% (PCMB) |
+| 📜 Professional Program | TCS iON Career Edge — Software Engineering, Agile/Scrum & Soft Skills |
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-| 🏅 | Detail |
-|----|--------|
-| 💻 LeetCode  and GeeksforGeeks | 250+ problems solved — Graphs, DP, Optimization |
-| 🏆 Hackathons | Actively participating coding contests — real-world engineering challenges |
-| 📜 Certifications | Java Foundation · Programming in Java · DSA using Java · DBMS (1 & 2) |
-| 🎓 Academic | CGPA 8.8/10 · Board: 92% (PCMB) |
-
----
-
-## 🌐 Let's Connect
+### 📜 Certifications
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-g-k-040813354)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manjunath-G-K)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathgk146@gmail.com)
+**Infosys Springboard**
+
+![SDE Capstone](https://img.shields.io/badge/SDE%20Capstone-3A0CA3?style=for-the-badge&logo=infosys&logoColor=white)
+![Spring Core](https://img.shields.io/badge/Spring%20Core-560BAD?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20Begin-7209B7?style=for-the-badge&logo=springboot&logoColor=white)
+![Java Concurrency](https://img.shields.io/badge/Java%20Concurrency%20%26%20Multithreading-9D4EDD?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA Java](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20(Java)-B5179E?style=for-the-badge&logo=leetcode&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS%20Normalization%20%26%20SQL-C77DFF?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Intel**
+
+![Intel AI](https://img.shields.io/badge/Intel%20AI%20For%20All%20%E2%80%94%20Deep%20Learning-3A0CA3?style=for-the-badge&logo=intel&logoColor=white)
+
+**TCS iON**
+
+![TCS Career Edge](https://img.shields.io/badge/TCS%20iON%20Career%20Edge%20%E2%80%94%20Agile%20%26%20Software%20Engineering-560BAD?style=for-the-badge&logo=tcs&logoColor=white)
 
 </div>
 
 ---
 
+### 💻 Coding Profiles
+
 <div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-3A0CA3?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/manjunathgk024/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7209B7?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mgk024)
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manjunath-G-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=B5179E&text_color=E0AAFF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath-G-K&theme=tokyonight&hide_border=true&background=0D0221&ring=B5179E&fire=C77DFF&currStreakLabel=C77DFF" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-G-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF" />
+
+</div>
+
+> **Heads up:** stats, streak, and top-language widgets above are generated live from your public GitHub activity by an external service (github-readme-stats.vercel.app). If your repos are mostly private, or the service is rate-limited/down, these boxes can render blank on GitHub even though the markdown is correct — that's a data/service issue, not a code issue. GitHub Trophies and the Contribution Snake have been dropped from this version since they need extra setup (a scheduled GitHub Action for the snake) to work reliably.
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced System Design Patterns
+  - Distributed Systems at Scale
+  - Applied Machine Learning for Backend Systems
+
+building:
+  - High-throughput backend services with Spring Boot
+  - Secure, scalable microservice architectures
+  - AI-integrated backend pipelines
+
+exploring:
+  - Event-Driven Architecture & Message Queues
+  - Kubernetes & Container Orchestration
+  - Advanced Database Internals
+
+open_to:
+  - Backend Engineering Roles
+  - Software Engineering Internships
+  - Open Source Contributions
+  - System Design Collaboration
 ```
-"Don't just write code. Engineer systems. Solve problems. Ship impact."
-```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=80&section=footer" width="100%"/>
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathgk146@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-560BAD?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918618545293)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-g-k)
+[![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manjunath-G-K)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B5179E?style=for-the-badge&logo=vercel&logoColor=white)](https://manjunath-g-k.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Don't just write code. Engineer systems. Solve problems. Ship impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5179e,25:7209b7,50:3a0ca3,75:1a0b3d,100:0d0221&height=150&section=footer" width="100%"/>
 
 </div>
