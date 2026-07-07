@@ -23,7 +23,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manjunath-G-K&style=flat-square&color=b5179e&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Manjunath-G-K?style=flat-square&color=7209b7&label=Followers&logo=github)
 ![Stars](https://img.shields.io/github/stars/Manjunath-G-K?style=flat-square&color=3a0ca3&label=Stars&logo=github)
 
 </div>
@@ -76,27 +75,7 @@ Backend-focused software engineer specializing in **Java, Spring Boot, and distr
 
 ---
 
-### 🤖 AI / ML Capability Map
 
-<div align="center">
-
-**NLP & Text Classification**
-![](https://progress-bar.xyz/90/?title=TF-IDF%20%2B%20Misinformation%20Detection&width=400&color=b5179e&suffix=%25)
-
-**Applied ML Deployment**
-![](https://progress-bar.xyz/75/?title=Streamlit%20Inference%20UI&width=400&color=7209b7&suffix=%25)
-
-**Data Preprocessing Pipelines**
-![](https://progress-bar.xyz/85/?title=Unstructured%20Text%20%2B%20Concurrency&width=400&color=560bad&suffix=%25)
-
-**ML → Backend Integration**
-![](https://progress-bar.xyz/70/?title=Model-in-Product%20Engineering&width=400&color=3a0ca3&suffix=%25)
-
-</div>
-
-> Built and shipped an end-to-end **NLP misinformation-detection pipeline** (TF-IDF + classification, 90%+ accuracy) with a live Streamlit interface — bridging applied ML with production backend engineering rather than treating them as separate disciplines.
-
----
 
 ### 🏗️ Featured Projects
 
@@ -264,20 +243,17 @@ Developed and maintained backend services using Java and Spring Boot, contributi
 
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manjunath-G-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=B5179E&text_color=E0AAFF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath-G-K&theme=tokyonight&hide_border=true&background=0D0221&ring=B5179E&fire=C77DFF&currStreakLabel=C77DFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manjunath-G-K&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-G-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF" />
+<img src="https://streak-stats.demolab.com?user=Manjunath-G-K&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-G-K&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
-
-> **Heads up:** stats, streak, and top-language widgets above are generated live from your public GitHub activity by an external service (github-readme-stats.vercel.app). If your repos are mostly private, or the service is rate-limited/down, these boxes can render blank on GitHub even though the markdown is correct — that's a data/service issue, not a code issue. GitHub Trophies and the Contribution Snake have been dropped from this version since they need extra setup (a scheduled GitHub Action for the snake) to work reliably.
-
----
 
 ### 🎯 Current Focus
 
