@@ -1,64 +1,58 @@
 <div align="center">
 
-# Hi, I'm Manjunath G K 👋
+# Manjunath G K
 
-**Backend Engineer (Java / Spring Boot) · SWE Intern @ Infosys Springboard**
+**Backend-focused software engineer · Java / Spring Boot · Python · PostgreSQL**
+Final-year CSE student · Software Engineering Intern @ TheProfesseer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://manjunath-g-k.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-g-k)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:manjunathgk146@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B6E6E?style=flat-square&logo=githubpages&logoColor=white)](https://manjunath-g-k.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-g-k)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1B1F27?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/manjunathgk024/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manjunathgk146@gmail.com)
 
 </div>
 
 ---
 
-### About Me
+## About
 
-B.E. Computer Science student (VTU, 2023–2027) currently working as a **Software Engineering Intern at Infosys Springboard**, building backend services in Java and Spring Boot. I'm interested in backend engineering, distributed systems, and applying AI/ML to real products.
+I'm a B.E. Computer Science student (VTU, 2027) who likes the parts of a system you don't see: schemas, APIs, and what happens when something fails.
 
-- 🔭 Currently building backend services with Spring Boot at Infosys Springboard
-- 🌱 Learning distributed systems and system design
-- 💬 Ask me about Java, Spring Boot, or REST APIs
-- 📫 Reach me at manjunathgk146@gmail.com
+- **Now:** Software Engineering Intern at TheProfesseer, working on court-data systems (PostgreSQL migration, document extraction, OCR pipeline debugging).
+- **Before:** Infosys Springboard virtual internship (Java stack), where I was primary developer on CarbonLite.
+- **Learning:** Spring Security + JWT, testing and CI, system design.
+- **Practice:** 300+ DSA problems solved.
 
----
+## Projects
 
-### Tech Stack
+| Project | What it does | Stack |
+|---|---|---|
+| [**CarbonLite**](https://github.com/Manjunath-G-K/carbonlite) | Carbon footprint tracker: REST API over five resources, survey-based emission calculations, dashboard with goals and badges | Java, Spring Boot, MySQL, React, Tailwind |
+| [**FileGuard X**](https://github.com/Manjunath-G-K/file-integrity-system) | Detects tampered files in S3: stores SHA-256 hashes in DynamoDB, re-hashes on verify, compares in constant time. Deployed on EC2 (team project) | Python, Flask, AWS S3, DynamoDB, EC2 |
+| [**Real-Time Log Monitoring**](https://github.com/Manjunath-G-K/real-time-log-monitoring) | Ingests logs over REST, masks emails and phone numbers, keeps a 100-entry sliding window, streams to a live dashboard | Java, Spring Boot, WebSockets |
+| [**Finance Backend**](https://github.com/Manjunath-G-K/finance-backend) | Layered REST API for income and expense records with validation, global error handling, filters, and OpenAPI docs | Java 17, Spring Boot 3, JPA |
+| [**AI API Doc Generator**](https://github.com/Manjunath-G-K/ai-api-doc-generator) | Parses FastAPI route decorators and asks an LLM for structured API docs as strict JSON | Python, FastAPI, LLM API |
+| [**FakeGuard Pro**](https://github.com/Manjunath-G-K/Fake_news_detect) | Fake-news classifier; I built the ML pipeline (TF-IDF, Logistic Regression, evaluation) in a team of four | Python, scikit-learn, Streamlit |
 
-**Languages:** Java, Python, JavaScript, SQL, C
-**Backend:** Spring Boot, Hibernate, Flask
-**Databases:** MySQL, PostgreSQL, Redis
-**Frontend:** React, HTML, CSS, Tailwind
-**Tools:** Git, Docker, AWS, Maven, Linux
+Each repo's README lists its known limitations. Honest scope is part of the work.
 
----
+## Tech
 
-### Experience
+**Languages** Java · Python · JavaScript · SQL · C
+**Backend** Spring Boot · Spring Data JPA · REST · WebSockets · Flask · FastAPI
+**Data** PostgreSQL · MySQL · SQLite · DynamoDB
+**Frontend** React · Tailwind CSS · HTML/CSS
+**Cloud & tools** AWS (EC2, S3, IAM) · Git · Maven · Postman · Swagger/OpenAPI
 
-**Software Engineering Intern — Java Stack**
-*Infosys Springboard · Nov 2025 – Jan 2026*
+## Hackathons
 
-- Built and maintained backend services using Java and Spring Boot
-- Contributed to data pipeline development within an Agile/Scrum team
-- Participated in code reviews and documented system design decisions
-
----
-
-### Featured Projects
-
-- **[Real-Time Log Monitoring System](https://github.com/Manjunath-G-K)** — Java/Spring Boot backend for async log ingestion with real-time anomaly detection and AES-256 encryption.
-- **[Finance Backend — RBAC & Analytics API](https://github.com/Manjunath-G-K)** — Spring Boot + JPA API with role-based access control and analytics endpoints.
-- **[CarbonLite](https://github.com/Manjunath-G-K)** — Full-stack sustainability tracker (Spring Boot + React) with real-time KPI tracking.
-- **[FileGuard X](https://github.com/Manjunath-G-K)** — Cloud file integrity system using SHA-256 fingerprinting on AWS (Flask, S3, DynamoDB).
-- **[AI Misinformation Detector](https://github.com/Manjunath-G-K)** — NLP pipeline for misinformation classification, deployed with Streamlit.
-
----
-
+- NutriEyeAI, AI-RENA 2.0 (REVA University): 24-hour team build using Google Gemini
+- GreenLoop, Utkarsh 2K26: 24-hour team build
 
 ---
 
 <div align="center">
 
-📫 **manjunathgk146@gmail.com** · [LinkedIn](https://www.linkedin.com/in/manjunath-g-k) · [Portfolio](https://manjunath-g-k.github.io)
+[Portfolio](https://manjunath-g-k.github.io) · [LinkedIn](https://www.linkedin.com/in/manjunath-g-k) · manjunathgk146@gmail.com
 
 </div>
