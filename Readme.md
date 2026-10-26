@@ -18,10 +18,6 @@ Final-year CSE student · Software Engineering Intern @ TheProfesseer
 
 I'm a B.E. Computer Science student (VTU, 2027) who likes the parts of a system you don't see: schemas, APIs, and what happens when something fails.
 
-- **Now:** Software Engineering Intern at TheProfesseer, working on court-data systems (PostgreSQL migration, document extraction, OCR pipeline debugging).
-- **Before:** Infosys Springboard virtual internship (Java stack), where I was primary developer on CarbonLite.
-- **Learning:** Spring Security + JWT, testing and CI, system design.
-- **Practice:** 300+ DSA problems solved.
 
 ## Projects
 
